@@ -1,0 +1,6 @@
+# Visual Studio / Visual Studio Code
+.vs/
+.vscode/
+bin/
+MyAR/MyAR.dir/
+Resources/
